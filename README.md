@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Damian Baross
+# Damian
 ### Electronics & Telecommunications Student · AI/IoT Enthusiast
 **Gdynia / Gdańsk, Poland** · Open to internships
 
