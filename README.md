@@ -2,7 +2,7 @@
 <div align="center">
 
 # Damian
-### Electronics & Telecommunications Student · AI/IoT Enthusiast
+### Electronics & Telecommunications Student
 **Gdynia / Gdańsk, Poland** · Open to internships
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-baranowski-0aa60a2a8/)
@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm an Electronics & Telecommunications engineering student at **Gdynia Maritime University**, graduating in 2026. Currently building my thesis project — a real-time WiFi anomaly detection system using machine learning on ESP32 hardware.
+I'm an Electronics & Telecommunications engineering student at **Gdynia Maritime University**, graduating in 2026. Currently finishing my thesis project — a real-time WiFi anomaly detection system using machine learning on ESP32 hardware.
 
 I'm actively learning Python, ML, and backend development, and looking for an internship where I can grow fast and contribute to real projects.
 
@@ -76,7 +76,7 @@ ESP32 ──MQTT──▶ FastAPI ──▶ Isolation Forest ──▶ PostgreSQ
 
 ```python
 status = {
-    "thesis":      "WiFi anomaly detection — in progress",
+    "thesis":      "WiFi anomaly detection",
     "learning":    ["Python advanced", "ML pipelines", "Docker"],
     "team":        "Fixed-wing drone — camera systems",
     "looking_for": "Internship in AI/IoT · Gdańsk/Gdynia or remote"
@@ -85,19 +85,9 @@ status = {
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabaross&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6af7&icon_color=4fc3a1&text_color=e8e8f0)
-
-</div>
-
----
-
 ## Background
 
-- **B.Eng. Electronics & Telecommunications** — Gdynia Maritime University *(graduating 2026)*
+- **B.Eng. Electronics & Telecommunications** — Gdynia Maritime University *(graduating 2027)*
 - **Drone Team** — Fixed-wing UAV, camera systems
 - **Internship** — C# development
 
